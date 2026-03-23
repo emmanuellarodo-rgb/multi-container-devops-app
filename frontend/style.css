@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0f172a;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.card {
+  background: #1e293b;
+  margin: 15px auto;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.green { color: #22c55e; }
+.red { color: #ef4444; }
+.yellow { color: #eab308; }
